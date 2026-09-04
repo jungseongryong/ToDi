@@ -1,4 +1,4 @@
-# ToDi: Token-wise Distillation via Fine-Grained Divergence Control (EMNLP 2025 Oral/Outstanding Paper Award Nominee)
+# ToDi: Token-wise Distillation via Fine-Grained Divergence Control (EMNLP 2025 Oral/🏆Outstanding Paper Award Finalist)
 
 [![ACL Anthology](https://img.shields.io/badge/ACL-2025.emnlp--main.409-blue)](https://aclanthology.org/2025.emnlp-main.409/)
 [![Paper PDF](https://img.shields.io/badge/Paper-PDF-success)](https://aclanthology.org/2025.emnlp-main.409.pdf)
